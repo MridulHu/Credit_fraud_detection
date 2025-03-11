@@ -3,11 +3,11 @@ numpy
 seaborn
 matplotlib
 torch
+torchsummary
 kagglehub
 joblib
-sklearn
-imblearn
-datetime
-os
+scikit-learn
+imbalanced-learn
+
 
 #-e .
