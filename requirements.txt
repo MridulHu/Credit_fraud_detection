@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+torch
+kagglehub
+joblib
+sklearn
+imblearn
+datetime
+os
+
+#-e .
