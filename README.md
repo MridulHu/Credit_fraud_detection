@@ -98,5 +98,5 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or inquiries, please contact [your_email@example.com].
+For questions or inquiries, please contact [mriduldas0812@gmail.com].
 
